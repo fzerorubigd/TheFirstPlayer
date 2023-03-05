@@ -70,10 +70,9 @@ Also you can give a die from reserve (if there is any) to the player before last
 
 When there is a new player, then the player receives 3 dice, and play as normal. 
 
-
 [^1]: I am pretty sure all of us need a new campaign game, since there is a shortage of them in this era. 
 [^2]: A dice app works if you don’t have enough dice. 
 [^3]: To give the credit, I thought about this method when I played Rajas of The Ganges the other day.
 [^4]: Many games choose player order based on sitting position, like a classic [Ticket to Ride](https://boardgamegeek.com/boardgame/9209/ticket-ride), or a game of [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan). 
-[^5] In some games like [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham) or [Messina 1347](https://boardgamegeek.com/boardgame/238799/messina-1347) or [Gaia Project](https://boardgamegeek.com/boardgame/220308/gaia-project), you can choose the player order in any form that you like and ignore the sitting position, there is some sort of a turn order track in the game.
+[^5]: In some games like [Brass: Birmingham](https://boardgamegeek.com/boardgame/224517/brass-birmingham) or [Messina 1347](https://boardgamegeek.com/boardgame/238799/messina-1347) or [Gaia Project](https://boardgamegeek.com/boardgame/220308/gaia-project), you can choose the player order in any form that you like and ignore the sitting position, there is some sort of a turn order track in the game.
 
