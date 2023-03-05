@@ -37,17 +37,22 @@ If the game night has more than one simultaneous games, the player in each group
 
 ### Variant: The plus one token (optional)
 
-If you have access to something to use as a plus one token then you can use this variant. These tokens are used to add one to a single die. Only one token is allowed to be used on a single die in each round, and dice can not go more than 6, also these tokens will be discarded at the end of the session and will not carry over to the next session if you are using the campaign mode.
+If you have access to something to use as a plus one token then you can use this variant. These tokens are used to add one to a single die. 
+Only one token is allowed to be used on a single die in each round, and dice can not go more than 6, and player can use their token any time during the game, on any one of their dice, even after rolling the tiebreaker roll on the tie breaker die. 
+
+Also these tokens will be discarded at the end of the session and will not carry over to the next session if you are using the campaign mode.
 
 This token only works when there are four or more players. The player before the last one that receives a die, receives one token.
 
 ## End of the session 
 
-If you are not using the campaign mode, then return all the die to the owner and go home. see you next time.
+In this phase, if you are using the plus one variant, you have to discard all your plus one tokens. 
+
+If you are not using the campaign mode, then return all the die to the owner and you can start fresh next time.
 
 ### Campaign tracker sheet
 
-If you are using the campaign mode, at the end of the session, if you want to continue for the next session, you need to write the number of dice that each player has in the campaign tracker sheet. It can be a piece of paper with a table like this:
+If you are using the campaign mode, at the end of the session, you need to keep the number of dice that each player has in the campaign tracker sheet. It can be a piece of paper with a table like this:
 
 |              | 23/01/17 | 23/01/24 | 23/01/03 |     |
 | ---          | ---      | ---      | ---      | --- |
@@ -56,7 +61,7 @@ If you are using the campaign mode, at the end of the session, if you want to co
 | Bita         | 2        | 4        | 3        |     |
 | Reserved Dice| 0        | 0        | 1        |     |
  
-Or you can use a simple spread sheet (Google sheet or any other similar) or even a simple note each time. 
+Or you can use a simple spread sheet (Google sheet or any other similar) or even a note each time. 
 
 ### Reserved dice
 
@@ -69,6 +74,14 @@ Also you can give a die from reserve (if there is any) to the player before last
 ### Adding a new player to the campaign
 
 When there is a new player, then the player receives 3 dice, and play as normal. 
+
+## Negotiation
+
+This is a friendly game. Player can give each other one or more of their dice, but they should not go to zero die in this case. 
+
+Also if you are using the plus one variant, you are allowed to give your token to some one else. 
+
+This only can happen *BEFORE* or *AFTER* the game, after players are rolling the die, no one can give a die or plus one token.  
 
 [^1]: I am pretty sure all of us need a new campaign game, since there is a shortage of them in this era. 
 [^2]: A dice app works if you don’t have enough dice. 
