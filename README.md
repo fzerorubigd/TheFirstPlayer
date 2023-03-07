@@ -2,7 +2,7 @@
 
 This game is a Campaign[^1] Game to determine the first player in a game night (or in course of multiple game night session with same group)
 
-You need 3 d6 per player[^2], so for 5 players it will be 15 dice and a campaign tracker sheet (if you want to keep track of the status on multiple game nights) you don’t need the campaign tracker sheet  if you want to use it for multiple game nights. 
+You need 3 d6 per player[^2], so for 5 players it will be 15 dice and a campaign tracker sheet (if you want to keep track of the status on multiple game nights) you don’t need the campaign tracker sheet  if you don't want to use it for multiple game nights. 
 
 Also, this is obvious, this method is useful for the games that have turn order, and has no systematic method of choosing the first player. For example [Rajas Of The Ganges](https://boardgamegeek.com/boardgame/220877/rajas-ganges)[^3] has turn order, but the first player is determined by the dice rolling in the game, so this method is not needed there. But then you can do the resolve phase even when the game has its own method to keep it fair.
 
@@ -10,11 +10,11 @@ Also, this is obvious, this method is useful for the games that have turn order,
 
 Before each game, all players roll all their dice (or any combination of them, it is the player decision, they cannot forfeit entirely but they can play with less die if they want to, the minimum is 1)
 
-Players can re-roll all their dice, by removing one die, this die cannot be used in this round anymore.
+Players can re-roll all their dice, by removing one die, this die cannot be used in this round anymore, but will be used in the next game (the die is not removed from the players collection).
 
 Then each player places their die in any order from left to right, they are not allowed to change this order anymore. It makes sense to go from higher to lower, but a player can decide any order, this happens simultaneously, so no one is allowed to see other player’s dice before ordering their own dice. 
 
-Then the first die on the left determines the first player. The higher die wins. If there is a tie, the second die is the tie breaker, if the second is a tie, then the third breaks the tie. If one player has less dice, then the missing dice are zero, and the player with more die wins if all the first die are equal.
+Then the first die on the left determines the first player. The higher die wins. If there is a tie, the second die is the tie breaker, if the second is a tie, then the third breaks the tie. If one player has less dice, then the missing dice are zero, and the player with more die wins if all the first dice are equal.
 
 But if all have the same number of dice, and all of them are the same, then all tied players roll the *LAST* die (the die on the right) until one of them rolls more than the rest, then all stop with the new die as the last die, and the one that is higher than the rest wins this tie.  
 
@@ -22,7 +22,7 @@ If the game only needs the first player and the rest is determined by the player
 
 ## Resolve Phase 
 
-In this phase, the one that wins the game, gave up one die, and the last player (the one who actually will play last, even if their place in "The First Player" Game was not last) receive one die. 
+In this phase, the one that wins the game, gave up one die, and the last player (the one who actually plays last, even if their place in "The First Player" Game was not last) receive one die. 
 
 If the game is 6 players or higher, the first two players give up one die each and the last two players receive a die each. 
 If the second player has no die to lose, then the second to last player receives nothing (also check the [Reserved dice](#reserved-dice) section if you are playing in campaign mode).
