@@ -1,5 +1,13 @@
 # The First Player Game
 
+## TLDR;
+- Give 3 dice to each player, roll them
+- Order dice from high to low, and compare the highest, then the second and so on. the higher wins (6/2/1 wins 5/4/4)
+- Take one die from the winner, and give it to the player that goes last in the "actual" game.
+- Keep track of number of dice for the next game
+
+## The full detail
+
 This game is a Campaign[^1] Game to determine the first player in a game night (or in course of multiple game night session with same group)
 
 You need 3 d6 per player[^2], so for 5 players it will be 15 dice and a campaign tracker sheet (if you want to keep track of the status on multiple game nights) you don’t need the campaign tracker sheet  if you don't want to use it for multiple game nights. 
