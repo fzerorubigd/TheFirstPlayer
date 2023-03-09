@@ -1,6 +1,7 @@
 # The First Player Game
 
 ## TLDR;
+
 - Give 3 dice to each player, roll them
 - Order dice from high to low, and compare the highest, then the second and so on. the higher wins (6/2/1 wins 5/4/4)
 - Take one die from the winner, and give it to the player that goes last in the "actual" game.
